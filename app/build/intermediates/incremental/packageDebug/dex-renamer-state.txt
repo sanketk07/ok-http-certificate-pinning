@@ -1,0 +1,7 @@
+#Thu Jun 22 15:26:13 EDT 2017
+base.0=/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3b5bc0ec1b59e559dea779370447173f19b24e4c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f5e1693108f7b596e25e44bff6e759b97f44f12b/classes.dex
+base.1=/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f5e1693108f7b596e25e44bff6e759b97f44f12b
+file.0=/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3b5bc0ec1b59e559dea779370447173f19b24e4c/classes.dex

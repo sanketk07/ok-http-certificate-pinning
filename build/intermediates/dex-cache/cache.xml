@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_68b0c5168f075dde4e260075124804d1042b3868/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9641f61b5a3d952f6d1a78b6e78b54d99563a76b">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f5e1693108f7b596e25e44bff6e759b97f44f12b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_7e134d77ec10bf9f5f25feff0aaf3b897f75d317/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_e369e66b288e1f3c092eae732b400c0a8474b52a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_c807d6a1b3fb009d81b8548119b58439294dbeab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.1/f5aa318bda4c6c8d688c9d00b90681dcd82ce636/httpcore-4.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpcore-4.4.1_e0a701ef249adadf111befe760a53f70cf448257/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_daa28c69a3e3f5e457d3afe13c058470ac9b58bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_98a7a936bd656b1226e595bdfd0bf1346223c113/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c43946c2b51aa120bf5fd43c92ffaadb4e0439cc">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3b5bc0ec1b59e559dea779370447173f19b24e4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_8b20d3595f3347fc80e4a9f26da3b64b9b0dc9ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_b39305b80d1cb6542ed404ab5ffc5c12e72589c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_74657f0568357ec17ab8c9244109cf8d4ae94ac3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.1/4d060ca3190df0eda4dc13415532a12e15ca5f11/okhttp-3.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.1_208688e0ca7c6b4abf3d4c76d5de0a153ba61839/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_2c02e1c04dcc3023a931568cee9cfa4fa87c2464/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Okhttp_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_1a9df8ed19e2b04e65ccf7082be693562316d56d/classes.dex" />
+    </item>
+
+</items>
